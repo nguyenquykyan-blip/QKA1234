@@ -1,0 +1,53 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff0f5;
+}
+.header {
+    background-color: #ff66a3;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.gioithieu {
+    padding: 20px;
+    background-color: #ffffff;
+}
+.noidung {
+    padding: 20px;
+}
+h1, h2 {
+    color: #cc0066;
+}
+
+img {
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+video {
+    width: 300px;
+    margin-top: 10px;
+}
+
+.binhluan {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffe6f0;
+}
+
+input, textarea {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.footer {
+    background-color: #ff66a3;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
